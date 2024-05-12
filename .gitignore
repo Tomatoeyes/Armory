@@ -1,0 +1,12 @@
+build/
+Debug/
+debug/
+Release/
+release/
+*.user
+*.user.*
+*.o
+*.a
+*.d
+*.tar
+.vscode/

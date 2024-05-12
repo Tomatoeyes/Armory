@@ -1,0 +1,3 @@
+[submodule "examples/Nordic_Thingy_53/nrfx"]
+	path = examples/Nordic_Thingy_53/nrfx
+	url = https://github.com/NordicSemiconductor/nrfx.git

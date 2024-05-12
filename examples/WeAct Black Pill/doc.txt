@@ -1,0 +1,3 @@
+install libusb
+cd <your STM32CubeProgrammer install directory>/Drivers/rules
+sudo cp *.* /etc/udev/rules.d/
